@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Movie Application – Role-Based Access Control (RBAC)
 
 A full-stack **MERN Movie Application** with **JWT-based authentication** and **role-based access control**. Users can browse movies; admins can manage movie data.
@@ -97,3 +98,6 @@ Password: admin123
 * IMDb auto-seed script included (`backend/scripts/imdbSeed.js`)
 * Robust error handling for unauthorized access and invalid input
 * Responsive, professional UI using Material-UI
+=======
+# MERN-Movie-App
+>>>>>>> 0dbbc95ac94ae4ec9f40934b4fa1e6fa8e23ab18
